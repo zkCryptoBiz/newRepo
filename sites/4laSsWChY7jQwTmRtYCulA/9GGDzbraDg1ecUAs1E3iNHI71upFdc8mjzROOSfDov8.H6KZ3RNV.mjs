@@ -35694,7 +35694,7 @@ var K1 = {
                               }),
                             }),
                             b(nt, {
-                              href: "https://x.com/PeeziSol",
+                              href: "https://dexscreener.com/solana/efzNsSahZtRJGPSQVent5vv2pyXNGb78D7n66nUpeez",
                               openInNewTab: !0,
                               children: b(te.a, {
                                 className: "framer-1kxlqr7 framer-lux5qc",
