@@ -31110,39 +31110,39 @@ function ma({ items: t }) {
           }),
         ],
       }),
-      b("div", {
-        className: "button-wrapper",
-        children: U("button", {
-          className: "button-green",
-          onClick: c,
-          children: [
-            b("div", { className: "text-medium", children: "Share" }),
-            b("svg", {
-              xmlns: "http://www.w3.org/2000/svg",
-              viewBox: "0 0 256 256",
-              focusable: "false",
-              color: "rgb(9, 10, 15)",
-              style: {
-                userSelect: "none",
-                width: "1.75rem",
-                height: "1.75rem",
-                display: "inline-block",
-                fill: "rgb(9, 10, 15)",
-                color: "rgb(9, 10, 15)",
-                flexShrink: "0",
-              },
-              children: b("g", {
-                color:
-                  "var(--token-9537c52d-87fa-4cd2-9d2d-6a61cb93ce9a, rgb(9, 10, 15))",
-                weight: "bold",
-                children: b("path", {
-                  d: "M240.49,103.52l-80-80A12,12,0,0,0,140,32V68.74c-25.76,3.12-53.66,15.89-76.75,35.47-29.16,24.74-47.32,56.69-51.14,90A16,16,0,0,0,39.67,207h0c10.46-11.14,47-45.74,100.33-50.42V192a12,12,0,0,0,20.48,8.48l80-80A12,12,0,0,0,240.49,103.52ZM164,163V144a12,12,0,0,0-12-12c-49,0-86.57,21.56-109.79,40.11,7.13-18.16,19.63-35.22,36.57-49.59C101.3,103.41,128.67,92,152,92a12,12,0,0,0,12-12V61l51,51Z",
-                }),
-              }),
-            }),
-          ],
-        }),
-      }),
+    //   b("div", {
+    //     className: "button-wrapper",
+    //     children: U("button", {
+    //       className: "button-green",
+    //       onClick: c,
+    //       children: [
+    //         b("div", { className: "text-medium", children: "Share" }),
+    //         b("svg", {
+    //           xmlns: "http://www.w3.org/2000/svg",
+    //           viewBox: "0 0 256 256",
+    //           focusable: "false",
+    //           color: "rgb(9, 10, 15)",
+    //           style: {
+    //             userSelect: "none",
+    //             width: "1.75rem",
+    //             height: "1.75rem",
+    //             display: "inline-block",
+    //             fill: "rgb(9, 10, 15)",
+    //             color: "rgb(9, 10, 15)",
+    //             flexShrink: "0",
+    //           },
+    //           children: b("g", {
+    //             color:
+    //               "var(--token-9537c52d-87fa-4cd2-9d2d-6a61cb93ce9a, rgb(9, 10, 15))",
+    //             weight: "bold",
+    //             children: b("path", {
+    //               d: "M240.49,103.52l-80-80A12,12,0,0,0,140,32V68.74c-25.76,3.12-53.66,15.89-76.75,35.47-29.16,24.74-47.32,56.69-51.14,90A16,16,0,0,0,39.67,207h0c10.46-11.14,47-45.74,100.33-50.42V192a12,12,0,0,0,20.48,8.48l80-80A12,12,0,0,0,240.49,103.52ZM164,163V144a12,12,0,0,0-12-12c-49,0-86.57,21.56-109.79,40.11,7.13-18.16,19.63-35.22,36.57-49.59C101.3,103.41,128.67,92,152,92a12,12,0,0,0,12-12V61l51,51Z",
+    //             }),
+    //           }),
+    //         }),
+    //       ],
+    //     }),
+    //   }),
     ],
   });
 }
@@ -32782,7 +32782,7 @@ var K1 = {
                                           "--framer-font-size": "18px",
                                         },
                                         children: b(nt, {
-                                          href: "https://www.dextools.io/app/en/solana/pair-explorer/efzNsSahZtRJGPSQVent5vv2pyXNGb78D7n66nUpeez",
+                                          href: "https://dexscreener.com/solana/efzNsSahZtRJGPSQVent5vv2pyXNGb78D7n66nUpeez",
                                           openInNewTab: !0,
                                           smoothScroll: !1,
                                           children: b("a", {
@@ -32808,7 +32808,7 @@ var K1 = {
                                         "--framer-font-size": "20px",
                                       },
                                       children: b(nt, {
-                                        href: "https://www.dextools.io/app/en/solana/pair-explorer/efzNsSahZtRJGPSQVent5vv2pyXNGb78D7n66nUpeez",
+                                        href: "https://dexscreener.com/solana/efzNsSahZtRJGPSQVent5vv2pyXNGb78D7n66nUpeez",
                                         openInNewTab: !0,
                                         smoothScroll: !1,
                                         children: b("a", {
@@ -35656,7 +35656,7 @@ var K1 = {
                           className: "framer-1bp5wxz",
                           children: [
                             b(nt, {
-                              href: "https://www.dextools.io/app/en/solana/pair-explorer/efzNsSahZtRJGPSQVent5vv2pyXNGb78D7n66nUpeez",
+                              href: "https://raydium.io/swap/?inputMint=sol&outputMint=efzNsSahZtRJGPSQVent5vv2pyXNGb78D7n66nUpeez",
                               children: U(te.a, {
                                 className: "framer-e5r4vz framer-lux5qc",
                                 "data-border": !0,
@@ -35683,8 +35683,7 @@ var K1 = {
                                             '"Peachy Keen JF Regular", "Peachy Keen JF Regular Placeholder", sans-serif',
                                           "--framer-font-size": "22px",
                                         },
-                                        children: "Dextools",
-                                      }),
+                                        children: "Buy now",}),
                                     }),
                                     className: "framer-lncfkf",
                                     fonts: ["CUSTOM;Peachy Keen JF Regular"],
@@ -36578,7 +36577,7 @@ var K1 = {
                               }),
                             }),
                             b(nt, {
-                              href: "https://rugcheck.xyz/tokens/",
+                              href: "https://raydium.io/swap/?inputMint=sol&outputMint=efzNsSahZtRJGPSQVent5vv2pyXNGb78D7n66nUpeez",
                               children: U(te.a, {
                                 className: "framer-1l24wby framer-lux5qc",
                                 "data-border": !0,
