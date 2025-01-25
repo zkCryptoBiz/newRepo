@@ -32782,7 +32782,7 @@ var K1 = {
                                           "--framer-font-size": "18px",
                                         },
                                         children: b(nt, {
-                                          href: "https://dexscreener.com/solana/efzNsSahZtRJGPSQVent5vv2pyXNGb78D7n66nUpeez",
+                                          href: "https://www.dextools.io/app/en/solana/pair-explorer/efzNsSahZtRJGPSQVent5vv2pyXNGb78D7n66nUpeez",
                                           openInNewTab: !0,
                                           smoothScroll: !1,
                                           children: b("a", {
@@ -32808,7 +32808,7 @@ var K1 = {
                                         "--framer-font-size": "20px",
                                       },
                                       children: b(nt, {
-                                        href: "https://dexscreener.com/solana/efzNsSahZtRJGPSQVent5vv2pyXNGb78D7n66nUpeez",
+                                        href: "https://www.dextools.io/app/en/solana/pair-explorer/efzNsSahZtRJGPSQVent5vv2pyXNGb78D7n66nUpeez",
                                         openInNewTab: !0,
                                         smoothScroll: !1,
                                         children: b("a", {
